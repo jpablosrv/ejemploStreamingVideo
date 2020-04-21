@@ -1,0 +1,58 @@
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe.config
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\App.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer_MarkupCompile.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.g.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.Properties.Resources.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\bin\Debug\VoIPSDK.dll
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe.config
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\bin\Debug\VoIPSDK.dll
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\App.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer_MarkupCompile.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.g.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.Properties.Resources.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - Copy (6)\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - #9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe.config
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - #9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer - #9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe.config
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.pdb
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\VoIPSDK.dll
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\App.g.cs
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer_MarkupCompile.cache
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.g.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.Properties.Resources.resources
+C:\Users\user\Documents\CameraExample\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csproj.GenerateResource.Cache
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe.config
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.exe
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.pdb
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.exe
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\bin\Debug\Basic_CameraViewer.pdb
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\MainWindow.baml
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\App.g.cs
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer_MarkupCompile.cache
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.g.resources
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.Properties.Resources.resources
+C:\Users\ariel\Desktop\Basic_CameraViewer_9\Basic_CameraViewer\obj\Debug\Basic_CameraViewer.csproj.GenerateResource.Cache
